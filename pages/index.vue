@@ -2,6 +2,6 @@
 
 <template>
   <div>
-    <h1>Hello World!</h1>
+    <p style="font-size: 48px;">Whereas disregard and contempt for human rights have resulted</p>
   </div>
 </template>
